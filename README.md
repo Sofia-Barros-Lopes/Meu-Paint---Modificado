@@ -20,7 +20,7 @@ Projeto de um editor gráfico interativo desenvolvido em Java (Swing/AWT). A apl
 * **Borracha (`Borracha`):** Especialização da caneta para apagar traços ajustando a cor do pincel dinamicamente para a cor do fundo do painel.
 * **Formas Geométricas Padrão:** Linha, Retângulo, Elipse e Polígono ajustável.
 
-### 🪣 Balde de Tinta Inteligente
+### Balde de Tinta Inteligente
 * Identificação de colisão do clique com o topo da pilha de formas (`contem(p)`).
 * Alteração da cor de preenchimento da forma clicada ou mudança da cor do painel inteiro quando o clique é em área vazia.
 
