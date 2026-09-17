@@ -6,8 +6,8 @@ Projeto de um editor gráfico interativo desenvolvido em Java (Swing/AWT). A apl
 
 ## 👨‍🏫 Créditos e Autoria
 
-* **Projeto Base:** Código original e estrutura base desenvolvidos pelo **Prof. Dr. David Buzatto**.
-* **Modificações e Novas Implementações:** Desenvolvidas por **Sofia Barros** e **Gleyce Kelly**.
+* **Projeto Base:** Código original e estrutura base desenvolvidos pelo **Prof. Dr. David Buzatto** ([@davidbuzatto](https://github.com/davidbuzatto)).
+* **Modificações e Novas Implementações:** Desenvolvidas por **Sofia Barros** ([@Sofia-Barros-Lopes](https://github.com/Sofia-Barros-Lopes)) e **Gleyce Kelly** ([@gleycekelly12](https://github.com/gleycekelly12)).
 
 ---
 
